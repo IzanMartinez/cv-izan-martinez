@@ -23,11 +23,9 @@ https://<tu-usuario>.github.io/<nombre-del-repositorio>/
 - Proyectos destacados
 - Información de contacto
 
-## ✏️ Personalización
-Puedes modificar fácilmente el archivo `index.html` para actualizar tus datos personales o incluir nuevos proyectos.
 
 ## 📬 Contacto
-Puedes encontrarme en: [github.com/IzanMartinez](https://github.com/IzanMartinez)
+Puedes encontrarme en: [github.com/IzanMartinez](https://github.com/IzanMartinez) o escibirme a martinezalvaroizan@gmail.com
 
 ---
 
