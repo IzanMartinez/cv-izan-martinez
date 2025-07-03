@@ -7,13 +7,6 @@ Este repositorio contiene mi currículum vitae como desarrollador de software, d
 - Diseño responsive (base)
 - Tema oscuro por defecto
 
-## 🌐 Visualización en vivo
-Cuando actives GitHub Pages en este repositorio, estará disponible en:
-
-```
-https://<tu-usuario>.github.io/<nombre-del-repositorio>/
-```
-
 ## 📄 Secciones incluidas
 - Perfil profesional
 - Habilidades técnicas y personales
