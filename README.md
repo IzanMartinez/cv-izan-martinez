@@ -1,34 +1,23 @@
-# CV de Izan Martínez Álvaro
+# Currículum Web - Izan Martínez Álvaro
 
-Este repositorio contiene mi currículum vitae como desarrollador de software, diseñado en formato web con tema oscuro. Está optimizado para GitHub Pages.
+Este repositorio contiene el currículum vitae de Izan Martínez Álvaro, desarrollado en formato web con HTML y CSS.
 
-## 🚀 Tecnologías destacadas
-- HTML5 + CSS3
-- Diseño responsive (base)
-- Tema oscuro por defecto
+## Características
 
-## 🌐 Visualización en vivo
-Cuando actives GitHub Pages en este repositorio, estará disponible en:
+- Diseño moderno con tema oscuro.
+- Navegación por secciones: perfil, habilidades, experiencia, formación, proyectos y contacto.
+- Estructura sencilla, compatible con GitHub Pages.
 
-```
-https://<tu-usuario>.github.io/<nombre-del-repositorio>/
-```
+## Tecnologías utilizadas
 
-## 📄 Secciones incluidas
-- Perfil profesional
-- Habilidades técnicas y personales
-- Idiomas
-- Experiencia profesional
-- Formación académica y complementaria
-- Proyectos destacados
-- Información de contacto
+- HTML5
+- CSS3
 
-## ✏️ Personalización
-Puedes modificar fácilmente el archivo `index.html` para actualizar tus datos personales o incluir nuevos proyectos.
+## Autor
 
-## 📬 Contacto
-Puedes encontrarme en: [github.com/IzanMartinez](https://github.com/IzanMartinez)
+**Izan Martínez Álvaro**  
+[GitHub: IzanMartinez](https://github.com/IzanMartinez)
 
 ---
 
-© 2025 Izan Martínez Álvaro
+© 2025 Izan Martínez Álvaro. Todos los derechos reservados.
